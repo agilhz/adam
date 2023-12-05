@@ -12,7 +12,7 @@ def main():
     st.write("1. Joshua Namora Sende Hasibuan")
     st.write("2. Fadli Alamsyah")
     st.write("3. Zirly Khodijah Jamil")
-    st.write("Mohammad Adam Fahri")
+    st.write("4. Mohammad Adam Fahri")
 
     # Menampilkan tombol untuk menjalankan Streamlit app
     st.header("Run Streamlit App")
